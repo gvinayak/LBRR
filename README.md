@@ -9,4 +9,4 @@ LBRR: Load Balanced Ring Routing Protocol for Heterogeneous Sensor Networks with
 https://ieeexplore.ieee.org/document/7925728/
 
 ## Environment Settings
-We use Matlab veriosn R2013a
+We use Matlab version R2013a
