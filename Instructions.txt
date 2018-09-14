@@ -1,30 +1,24 @@
 INSTRUCTIONS
 ===================================================================================================================
-Prerequisites: The build and execution of the code requires IDE setup of MATLAB Version :R2013a.
-
+Pre-requisites: The build and execution of the code requires setup of MATLAB Version :R2013a.
 
 1. 	The folder titled "Heterogenous_Ring" contains the set of functions involved to simulate the 
 	devised protocol LBRR(Load Balanced Ring Routing). for the paper titled "Load Balanced Ring 
-	Routing Protocol for Heterogeneous Sensor Networks with Sink Mobility" accepeted for 
-	publication in IEEE WCNC 2017.
+	Routing Protocol for Heterogeneous Sensor Networks with Sink Mobility" in IEEE WCNC 2017.
 	
 	The simulation distibutes the heterogeneousring nodes in the specified area, identify possible 
 	ring candidates and using range seach it determines the candidates with maximum angle as the next
-	candidate. It demonstrates the ring expansion and compression, Anchor node identification, sink node 
+	candidate. 
+
+	It demonstrates the ring expansion and compression, anchor node identification, sink node 
 	movement and calculates multiple aspects to compare the two simulations by packet drop ratio
 	network life.etc.
-
 	
-	
-	The script file for the simulation is titled as "Heterogenous.m"
-
-
+	The main file for the simulation is titled as "Heterogenous.m"
 
 
 2.	Ther file titled "Normal_Ring" contains the simulation for the research publication taken as 
 	a base for further development titled "Ring Routing: An Energy-Efficient Routing Protocol 
-	for Wireless Sensor Networks with a Mobile Sink".
-	This simulation does the functions mentioned for the ring routing protocol in the paper and 
-	calculates the packet drop ratio, network life.etc for comparison with our simulation.  
-	
-	The script file for the simulation is titled as "Main.m".
+	for Wireless Sensor Networks with a Mobile Sink" in  IEEE Transactions on Mobile Computing 2014.
+
+	The main file for the simulation is titled as "Main.m".
