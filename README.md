@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# IITD Paper
+
 # Load Balanced Ring Routing Protocol
 
 This is our implementation for the paper:
@@ -10,4 +11,3 @@ LBRR: Load Balanced Ring Routing Protocol for Heterogeneous Sensor Networks with
 We use Matlab veriosn R2013a
 =======
 # LBRR
->>>>>>> 28011153df27d5f2c3cf192989db642cbe81316d
