@@ -1,5 +1,3 @@
-# WCNC'17 Paper
-
 # Load Balanced Ring Routing Protocol
 
 This is our implementation for the paper:
